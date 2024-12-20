@@ -1,5 +1,0 @@
-aulas de git, primeiro teste de iniciação do git
-
-Testamos o restore (funcionou)
-
-vamos testar agora o commit 
